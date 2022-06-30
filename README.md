@@ -1,16 +1,20 @@
-### Hi there 👋
+## 💜 Olá, meu nome é <strong>Pedro!</strong>
 
-<!--
-**PedroLC000/PedroLC000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> &nbsp;Sobre mim </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="link da sua faculdade">UTFPR-CP</a>.
+- 💻 &nbsp; Aprendendo mais sobre **Análise de dados/Ciência de dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLC000&show_icons=true)
+
+---
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Pedro Lemes Costa](https://img.shields.io/badge/-PedroLemesCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lemes-costa-852790200/)](https://www.linkedin.com/in/pedro-lemes-costa-852790200/)
+[![Gmail Badge](https://img.shields.io/badge/-pedro.lemes2001@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.lemes2001@gmail.com)](mailto:pedro.lemes2001@gmail.com)
+[![GitHub Pedro Lemes Costa]( https://img.shields.io/github/followers/PedroLC000?label=follow&style=social)](https://github.com/PedroLC000)
