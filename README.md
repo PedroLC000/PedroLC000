@@ -19,4 +19,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-pedro.lemes2001@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.lemes2001@gmail.com)](mailto:pedro.lemes2001@gmail.com)
 [![GitHub Pedro Lemes Costa]( https://img.shields.io/github/followers/PedroLC000?label=follow&style=social)](https://github.com/PedroLC000)
 
+<div> 
+  
+
 ![Snake animation](https://github.com/PedroLC000/PedroLC000/blob/output/github-contribution-grid-snake.svg)
+
+</div>
