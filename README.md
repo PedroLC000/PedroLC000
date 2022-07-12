@@ -11,6 +11,9 @@
 ## ⭐ Informações sobre minha conta GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLC000&theme=dark&show_icons=true)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Str0mG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Str0mG&layout=compact&langs_count=7&theme=tokyonight"/>
+
 ---
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
