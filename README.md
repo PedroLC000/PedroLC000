@@ -9,7 +9,7 @@
 ----
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLC000&show_icons=true)
+![GitHub Stats](https://github-readme-stats.dark.app/api?username=PedroLC000&show_icons=true)
 
 ---
 
