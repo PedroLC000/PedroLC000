@@ -11,6 +11,10 @@
 ## ⭐ Informações sobre minha conta GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLC000&theme=dark&show_icons=true)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLC000)](https://github.com/PedroLC000/github-readme-stats)
+
+
 ---
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
