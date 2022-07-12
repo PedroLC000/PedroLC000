@@ -9,9 +9,8 @@
 ----
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLC000&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLC000&theme=github_dark &show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLC000&theme=dark&show_icons=true)
 ---
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
