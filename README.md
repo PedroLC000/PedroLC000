@@ -10,7 +10,11 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLC000&theme=dark&show_icons=true)
+<div align="center">
+  <a href="https://github.com/PedroLC000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
