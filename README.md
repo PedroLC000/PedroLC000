@@ -12,7 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLC000&theme=dark&show_icons=true)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLC000)](https://github.com/PedroLC000/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLC000&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
