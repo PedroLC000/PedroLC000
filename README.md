@@ -12,6 +12,5 @@
 
 [![Linkedin: Pedro Lemes Costa](https://img.shields.io/badge/-PedroLemesCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lemes-costa-852790200/)](https://www.linkedin.com/in/pedro-lemes-costa-852790200/)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.lemes2001@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.lemes2001@gmail.com)](mailto:pedro.lemes2001@gmail.com)
-[![GitHub Pedro Lemes Costa]( https://img.shields.io/github/followers/PedroLC000?label=follow&style=social)](https://github.com/PedroLC000)
   
 
