@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="link da sua faculdade">UTFPR-CP</a>.
-- 💻 &nbsp; Aprendendo mais sobre **Análise de dados/Ciência de dados**.
+- 💻 &nbsp; Aprendendo mais sobre **IA/Ciência de dados** a cada dia.
 
 ---
 
